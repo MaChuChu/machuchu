@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 All of my projects are available at https://machuchu.github.io/final-portfolio/<br>🎯 Goals: Finding a tech job in 2025 !!!</p>
+<p align="left">👨‍💻 All of my projects are available at [Portfolio Website](https://ranjeth-ravichandran.github.io/porfolio/)<br>🎯 Goals: Finding a tech job in 2025 !!!</p>
 
 ###
 
